@@ -1,0 +1,1 @@
+Repository for our paper "Hardening Machine Learning based Network Intrusion Detection Systems with Synthetic NetFlows" accepted at [ITASEC24](https://2024.itasec.it).
